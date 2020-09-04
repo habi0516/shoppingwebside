@@ -491,7 +491,7 @@ form a{
     font-size:12px ;
 }
 #Indicator{
-    width: 100%;
+    width: 100px;
     border:none;
     background:#ff523b;
     height: 3px;
